@@ -1,4 +1,4 @@
-# Student Churn Analysis
+# Student churn analysis DASHBOARD
 
 ## Project Overview
 
